@@ -1,0 +1,8 @@
+# Robots.txt for VELIX (https://velix.com)
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /src/
+
+# Sitemap location
+Sitemap: https://velix.com/sitemap.xml
