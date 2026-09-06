@@ -1,8 +1,7 @@
-# Robots.txt for VELIX (https://velix.com)
+# Robots.txt for VELIX (https://velixweb.vercel.app)
+
 User-agent: *
 Allow: /
-Allow: /assets/
-Allow: /src/
 
 # Sitemap location
-Sitemap: https://velix.com/sitemap.xml
+Sitemap: https://velixweb.vercel.app/sitemap.xml
