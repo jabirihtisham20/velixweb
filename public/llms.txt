@@ -1,0 +1,53 @@
+# VELIX
+
+> VELIX is a web development and digital solutions company that designs and builds modern websites, web applications, e-commerce platforms, and software solutions.
+
+VELIX focuses on creating fast, modern, scalable, and user-friendly digital experiences for businesses.
+
+## Main Pages
+
+- [Home](https://velixweb.vercel.app/): Overview of VELIX and its digital development services.
+- [About](https://velixweb.vercel.app/about): Information about VELIX.
+- [Services](https://velixweb.vercel.app/services): Overview of VELIX services.
+- [Projects](https://velixweb.vercel.app/projects): VELIX projects and portfolio.
+- [Industries](https://velixweb.vercel.app/industries): Industries and business areas served by VELIX.
+- [Process](https://velixweb.vercel.app/process): VELIX development process.
+- [Pricing](https://velixweb.vercel.app/pricing): Pricing and service information.
+- [Insights](https://velixweb.vercel.app/insights): Articles, guides, and technical insights.
+- [Contact](https://velixweb.vercel.app/contact): Contact VELIX.
+
+## Services
+
+- [Custom Web Development](https://velixweb.vercel.app/services/custom-web-development): Custom website development.
+- [React.js Development](https://velixweb.vercel.app/services/react-js-development): React.js development services.
+- [Next.js Development](https://velixweb.vercel.app/services/next-js-development): Next.js development services.
+- [Web Application Development](https://velixweb.vercel.app/services/web-application-development): Web application development.
+- [E-commerce Development](https://velixweb.vercel.app/services/e-commerce-development): E-commerce website and platform development.
+- [WordPress Development](https://velixweb.vercel.app/services/wordpress-development): WordPress development services.
+- [UI/UX Design](https://velixweb.vercel.app/services/ui-ux-design): User interface and user experience design.
+- [API Development & Integration](https://velixweb.vercel.app/services/api-development-integration): API development and third-party integrations.
+- [Website Maintenance](https://velixweb.vercel.app/services/website-maintenance): Ongoing website maintenance and support.
+- [Website Performance Optimization](https://velixweb.vercel.app/services/website-performance-optimization): Website speed and performance optimization.
+- [SEO](https://velixweb.vercel.app/services/seo): Search engine optimization services.
+- [Mobile App Development](https://velixweb.vercel.app/services/mobile-app-development): Mobile application development.
+- [Software Development](https://velixweb.vercel.app/services/software-development): Custom software development.
+- [CMS Development](https://velixweb.vercel.app/services/cms-development): Content management system development.
+- [Shopify Development](https://velixweb.vercel.app/services/shopify-development): Shopify development services.
+- [Cloud Hosting](https://velixweb.vercel.app/services/cloud-hosting): Cloud hosting and deployment solutions.
+- [Digital Marketing](https://velixweb.vercel.app/services/digital-marketing): Digital marketing services.
+- [AI Integration](https://velixweb.vercel.app/services/ai-integration): AI integration for websites and applications.
+
+## Insights
+
+- [Website Cost in Pakistan 2026](https://velixweb.vercel.app/insights/website-cost-in-pakistan-2026)
+- [WordPress vs Next.js](https://velixweb.vercel.app/insights/wordpress-vs-nextjs)
+- [React vs Next.js for Startups](https://velixweb.vercel.app/insights/react-vs-nextjs-startups)
+- [Shopify vs WooCommerce in Pakistan](https://velixweb.vercel.app/insights/shopify-vs-woocommerce-pakistan)
+- [How to Choose a Web Development Company in Islamabad](https://velixweb.vercel.app/insights/how-to-choose-web-development-company-islamabad)
+- [What Is Technical SEO for a Website](https://velixweb.vercel.app/insights/what-is-technical-seo-for-website)
+- [Core Web Vitals for Business Owners](https://velixweb.vercel.app/insights/core-web-vitals-business-owners)
+- [E-commerce SEO Checklist](https://velixweb.vercel.app/insights/ecommerce-seo-checklist)
+- [When a Business Needs Custom Software](https://velixweb.vercel.app/insights/when-business-needs-custom-software)
+- [Website Redesign SEO Checklist](https://velixweb.vercel.app/insights/website-redesign-seo-checklist)
+- [How Long Does SEO Take in Pakistan](https://velixweb.vercel.app/insights/how-long-does-seo-take-pakistan)
+- [Hiring a Dedicated Development Team in Pakistan](https://velixweb.vercel.app/insights/hiring-dedicated-development-team-pakistan)
